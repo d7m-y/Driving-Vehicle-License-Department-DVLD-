@@ -21,6 +21,26 @@ A comprehensive enterprise-level management system for handling driving licenses
 * **Database:** Microsoft SQL Server
 * **Data Access:** ADO.NET (Stored Procedures & Parameters)
 
+## System Interfaces
+
+![Main Dashboard](Screenshot%202026-05-01%20204121.png)
+
+![Manage People](Screenshot%202026-05-01%20204129.png)
+
+![User Management](Screenshot%202026-05-01%20204150.png)
+
+![Local License Applications](Screenshot%202026-05-01%20204200.png)
+
+![International License Applications](Screenshot%202026-05-01%20204233.png)
+
+![Test Appointments](Screenshot%202026-05-01%20204304.png)
+
+![Issue Driving License](Screenshot%202026-05-01%20204333.png)
+
+![Detain Licenses](Screenshot%202026-05-01%20204424.png)
+
+![System Settings](Screenshot%202026-05-01%20204458.png)
+
 ## Folder Structure
 ```text
 DVLD-System/
